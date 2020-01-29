@@ -1,8 +1,14 @@
 ## Dependancies Needed before loading : LINUX - 16.04 
 ### sudo apt-get install build-essential libssl-dev libcurl4-openssl-dev libjansson-dev libgmp-dev automake
-### To Run: ./hmq1725cpuminer located in the cpu miner folder 
+### Option 1
+### To Run: Download hmq1725cpuminer  from
 ### https://github.com/Diminutivecoin/cpuminer-hmq1725/releases
 ### Edit config to point to correct stratum - test stratum given 
+
+
+### Option 2
+### or build https://github.com/Diminutivecoin/cpuminer-hmq1725.git 
+### ./build.sh
 
 ### Example ./hmq1725cpuminer -a hmq1725 -o http://localhost:16001 -u test -p x
 ### Donate DOGE DFQxkUWEz2Kuk6Avv4pGJHPPiSJrBy82V8
