@@ -1,6 +1,8 @@
-## Dependancies Needed before loading : LINUX  
+## Dependancies Needed before loading : LINUX - 16.04 
 ### sudo apt-get install build-essential libssl-dev libcurl4-openssl-dev libjansson-dev libgmp-dev automake
-
+### To Run: ./hmq1725cpuminer located in the cpu miner folder 
+### https://github.com/Diminutivecoin/cpuminer-hmq1725/releases
+### Edit config to point to correct stratum - test stratum given 
 
 
 CPUMiner-Multi
