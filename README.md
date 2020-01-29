@@ -4,6 +4,9 @@
 ### https://github.com/Diminutivecoin/cpuminer-hmq1725/releases
 ### Edit config to point to correct stratum - test stratum given 
 
+### Example ./hmq1725cpuminer -a hmq1725 -o http://localhost:16001 -u test -p x
+
+
 
 CPUMiner-Multi
 ==============
