@@ -1,3 +1,8 @@
+## Dependancies Needed before loading : LINUX  
+### sudo apt-get install build-essential libssl-dev libcurl4-openssl-dev libjansson-dev libgmp-dev automake
+
+
+
 CPUMiner-Multi
 ==============
 
