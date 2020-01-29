@@ -1,14 +1,14 @@
 {
-	"_comment1" : "Any long-format command line argument ",
+	"_comment1" : "This is a test only",
 	"_comment2" : "may be used in this JSON configuration file",
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://mine.xpool.ca:1131",
-	"user" : "XeVrkPrWB7pDbdFLfKhF1Z3xpqhsx6wkH3",
-	"pass" : "cpuminer",
+	"url" : "stratum+tcp://hmq1725.mine.zergpool.com:3747",
+	"user" : "DFQxkUWEz2Kuk6Avv4pGJHPPiSJrBy82V8",
+	"pass" : "c=doge",
 
-	"algo" : "x11",
+	"algo" : "hmq1725",
 	"threads" : 0,
 	"cpu-priority" : 0,
 	"cpu-affinity" : -1,
