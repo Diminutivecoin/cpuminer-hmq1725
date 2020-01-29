@@ -5,7 +5,7 @@
 ### Edit config to point to correct stratum - test stratum given 
 
 ### Example ./hmq1725cpuminer -a hmq1725 -o http://localhost:16001 -u test -p x
-
+### Donate DOGE DFQxkUWEz2Kuk6Avv4pGJHPPiSJrBy82V8
 
 
 CPUMiner-Multi
